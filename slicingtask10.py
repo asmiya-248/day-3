@@ -1,0 +1,13 @@
+P="User your mobile open the mobile app click on 'scan any QR' scan&pay instantly T&CS."
+print(P[46])
+print(P[58])
+print(P[17:21:1])
+print(P[33:36:1])
+print(P[47:51:1])
+print(P[64])
+print(P[81])
+print(P[72:75:1])
+print(P[43:45:1])
+print(P[49:51:1])
+print(P[80:83:2])
+print(P[69:74:5])
